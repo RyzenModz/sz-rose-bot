@@ -38,7 +38,7 @@ This is the clone of [DewmiBot](https://github.com/hirunaofficial/Telegram-Group
 The easy way to host this bot
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/sz-rose-bot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=red"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RyzenModz/sz-rose-bot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=red"width="300"heigh="100" /></a></p>
 
   
 
